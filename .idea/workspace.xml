@@ -14,7 +14,7 @@
     <session id="-1337648261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="3" />
@@ -165,7 +165,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -234,7 +234,7 @@
     <property name="SearchEverywhereHistoryKey" value="item&#9;FILE&#9;file:///Users/pesoury/Documents/code/todos-api/app/controllers/items_controller.rb&#10;appl&#9;FILE&#9;file:///Users/pesoury/Documents/code/todos-api/app/controllers/application_controller.rb&#10;todos&#9;FILE&#9;file:///Users/pesoury/Documents/code/todos-api/app/controllers/todos_controller.rb&#10;controller&#9;FILE&#9;file:///Users/pesoury/Documents/code/todos-api/app/controllers/application_controller.rb&#10;con&#9;FILE&#9;file:///Users/pesoury/Documents/code/todos-api/config&#10;todo&#9;FILE&#9;file:///Users/pesoury/Documents/code/todos-api/app/models/todo.rb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542989504930" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542989511343" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -268,12 +268,12 @@
       <updated>1540576775318</updated>
       <workItem from="1540576776906" duration="1928000" />
       <workItem from="1541188606824" duration="421000" />
-      <workItem from="1542985697910" duration="2702000" />
+      <workItem from="1542985697910" duration="2933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5051000" />
+    <option name="totallyTimeSpent" value="5282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
